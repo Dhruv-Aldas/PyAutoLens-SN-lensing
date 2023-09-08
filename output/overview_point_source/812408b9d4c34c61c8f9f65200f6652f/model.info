@@ -1,0 +1,70 @@
+Total Free Parameters = 6
+
+model                                                                           Collection (N=6)
+    galaxies                                                                    Collection (N=6)
+        lens_0                                                                  Galaxy (N=0)
+            mass                                                                NFW (N=0)
+        lens_1                                                                  Galaxy (N=0)
+            mass                                                                NFW (N=0)
+        lens_2                                                                  Galaxy (N=0)
+            mass                                                                NFW (N=0)
+        lens_3                                                                  Galaxy (N=0)
+            mass                                                                NFW (N=0)
+        source_0                                                                Galaxy (N=2)
+            H                                                                   Point (N=2)
+        source_1                                                                Galaxy (N=2)
+            SN                                                                  Point (N=2)
+        source_2                                                                Galaxy (N=2)
+            s3                                                                  Point (N=2)
+
+galaxies
+    lens_0
+        redshift                                                                0.338
+        mass
+            centre                                                              (0.1, -0.1)
+            ell_comps                                                           (0.0, 0.0)
+            kappa_s                                                             0.05
+            scale_radius                                                        1.0
+            inner_slope                                                         1.0
+    lens_1
+        redshift                                                                0.338
+        mass
+            centre                                                              (19.2, -13.5)
+            ell_comps                                                           (0.0, 0.0)
+            kappa_s                                                             0.05
+            scale_radius                                                        1.0
+            inner_slope                                                         1.0
+    lens_2
+        redshift                                                                0.338
+        mass
+            centre                                                              (-5.0, 6.9)
+            ell_comps                                                           (0.0, 0.0)
+            kappa_s                                                             0.05
+            scale_radius                                                        1.0
+            inner_slope                                                         1.0
+    lens_3
+        redshift                                                                0.338
+        mass
+            centre                                                              (-0.8, -16.7)
+            ell_comps                                                           (0.0, 0.0)
+            kappa_s                                                             0.05
+            scale_radius                                                        1.0
+            inner_slope                                                         1.0
+    source_0
+        redshift                                                                1.95
+        H
+            centre
+                centre_0                                                        GaussianPrior [1], mean = 0.0, sigma = 0.3
+                centre_1                                                        GaussianPrior [2], mean = 0.0, sigma = 0.3
+    source_1
+        redshift                                                                1.95
+        SN
+            centre
+                centre_0                                                        GaussianPrior [3], mean = 0.0, sigma = 0.3
+                centre_1                                                        GaussianPrior [4], mean = 0.0, sigma = 0.3
+    source_2
+        redshift                                                                0.7663
+        s3
+            centre
+                centre_0                                                        GaussianPrior [5], mean = 0.0, sigma = 0.3
+                centre_1                                                        GaussianPrior [6], mean = 0.0, sigma = 0.3

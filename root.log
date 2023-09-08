@@ -1,0 +1,6 @@
+2023-09-08 00:50:39,609 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-09-08 00:50:39,612 - overview_point_source - INFO - Starting search
+2023-09-08 00:50:39,616 - overview_point_source - INFO - Saving path info
+2023-09-08 00:50:39,670 - overview_point_source - INFO - Not complete. Starting non-linear search.
+2023-09-08 00:50:39,671 - overview_point_source - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-09-08 00:50:39,736 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
