@@ -7,6 +7,8 @@ To fix the issue on Windows:
 1. Go to Users/{Username}/anaconda3/Lib/dynesty/
 2. Open utils.py
 3. Go to line 2325 and below the pickle.module.dump(D, fp) insert the following code:
+
    if os.path.exists(fname):
-     os.remove(fname)
-4. Save the changes and the MACS_J0138.ipynb file should work on Windows now
+      os.remove(fname)
+   
+5. Save the changes and the MACS_J0138.ipynb file should work on Windows now
