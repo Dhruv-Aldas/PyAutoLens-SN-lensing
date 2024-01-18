@@ -125,3 +125,92 @@
 2023-09-17 21:56:36,573 - root - INFO - Not complete. Starting non-linear search.
 2023-09-17 21:56:36,575 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
 2023-09-17 21:56:36,643 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-05 22:20:36,180 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-05 22:20:36,182 - point_sourceChi_01 - INFO - Starting search
+2023-10-05 22:20:36,184 - point_sourceChi_01 - INFO - Saving path info
+2023-10-05 22:20:36,337 - point_sourceChi_01 - INFO - Not complete. Starting non-linear search.
+2023-10-05 22:20:36,343 - point_sourceChi_01 - INFO - Existing Dynesty samples found, resuming non-linear search.
+2023-10-06 00:13:34,985 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-06 00:13:34,989 - point_sourceChi_01 - INFO - Starting search
+2023-10-06 00:13:34,992 - point_sourceChi_01 - INFO - Saving path info
+2023-10-06 00:13:35,073 - point_sourceChi_01 - INFO - Not complete. Starting non-linear search.
+2023-10-06 00:13:35,075 - point_sourceChi_01 - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-10-06 00:13:35,172 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-06 00:22:46,152 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-06 00:22:46,156 - point_sourceChi_01 - INFO - Starting search
+2023-10-06 00:22:46,158 - point_sourceChi_01 - INFO - Saving path info
+2023-10-06 00:22:46,312 - point_sourceChi_01 - INFO - Not complete. Starting non-linear search.
+2023-10-06 00:22:46,317 - point_sourceChi_01 - INFO - Existing Dynesty samples found, resuming non-linear search.
+2023-10-06 00:24:09,072 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-06 00:24:09,073 - root - INFO - Starting search
+2023-10-06 00:24:09,075 - root - INFO - Saving path info
+2023-10-06 00:24:09,076 - root - INFO - Not complete. Starting non-linear search.
+2023-10-06 00:24:09,077 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-10-06 00:24:10,308 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-06 00:24:31,424 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-06 00:30:00,871 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-06 00:30:00,872 - root - INFO - Starting search
+2023-10-06 00:30:00,874 - root - INFO - Saving path info
+2023-10-06 00:30:00,910 - root - INFO - Not complete. Starting non-linear search.
+2023-10-06 00:30:00,912 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-10-06 00:30:02,135 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-06 00:30:25,144 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-06 00:31:06,395 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-06 00:31:06,397 - root - INFO - Starting search
+2023-10-06 00:31:06,399 - root - INFO - Saving path info
+2023-10-06 00:31:06,547 - root - INFO - Not complete. Starting non-linear search.
+2023-10-06 00:31:06,549 - root - INFO - Existing Dynesty samples found, resuming non-linear search.
+2023-10-11 10:06:01,161 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-11 10:06:01,164 - root - INFO - Starting search
+2023-10-11 10:06:01,166 - root - INFO - Saving path info
+2023-10-11 10:06:01,168 - root - INFO - Not complete. Starting non-linear search.
+2023-10-11 10:06:01,170 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-10-11 10:06:01,251 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-17 20:04:20,011 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-17 20:04:20,013 - root - INFO - Starting search
+2023-10-17 20:04:20,015 - root - INFO - Saving path info
+2023-10-17 20:04:20,016 - root - INFO - Not complete. Starting non-linear search.
+2023-10-17 20:04:20,018 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-10-17 20:04:20,087 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-17 20:06:06,418 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:07:22,295 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:08:37,332 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:09:58,610 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:10:45,782 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:10:50,773 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:10:51,300 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:11:00,852 - root - INFO - Removing zip file
+2023-10-17 20:21:00,679 - autofit.non_linear.abstract_search - INFO - Creating search
+2023-10-17 20:21:00,681 - root - INFO - Starting search
+2023-10-17 20:21:00,690 - root - INFO - Saving path info
+2023-10-17 20:21:00,690 - root - INFO - Not complete. Starting non-linear search.
+2023-10-17 20:21:00,692 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2023-10-17 20:21:00,761 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2023-10-17 20:22:40,221 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:24:07,839 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:25:43,684 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:27:21,634 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:28:55,373 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:29:49,045 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:29:55,419 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:29:56,039 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2023-10-17 20:30:08,168 - root - INFO - Removing zip file
+2024-01-17 18:55:41,721 - autofit.non_linear.abstract_search - INFO - Creating search
+2024-01-17 18:55:41,724 - root - INFO - Starting search
+2024-01-17 18:55:41,733 - root - INFO - Saving path info
+2024-01-17 18:55:41,734 - root - INFO - Not complete. Starting non-linear search.
+2024-01-17 18:55:41,735 - root - INFO - No Dynesty samples found, beginning new non-linear search. 
+2024-01-17 18:55:41,806 - autofit.non_linear.initializer - INFO - Generating initial samples of model, which are subject to prior limits and other constraints.
+2024-01-17 18:57:24,171 - root - INFO - 5000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 18:58:58,366 - root - INFO - 10000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:00:23,495 - root - INFO - 15000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:01:59,099 - root - INFO - 20000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:03:21,671 - root - INFO - 25000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:04:55,297 - root - INFO - 30000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:06:25,717 - root - INFO - 35000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:07:59,071 - root - INFO - 40000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:09:34,925 - root - INFO - 45000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:10:35,941 - root - INFO - 50000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:10:41,442 - root - INFO - 55000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:10:42,536 - root - INFO - 60000 Iterations: Performing update (Visualization, outputting samples, etc.).
+2024-01-17 19:11:02,337 - root - INFO - Removing zip file
