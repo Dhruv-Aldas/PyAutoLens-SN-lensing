@@ -9,7 +9,6 @@ To fix the issue on Windows:
 3. Go to line 2325 and below the pickle.module.dump(D, fp) insert the following code:
 
 if os.path.exists(fname):
-
    os.remove(fname)
    
 5. Save the changes and the MACS_J0138.ipynb file should work on Windows now
